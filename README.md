@@ -1,8 +1,34 @@
-# Litaliano00-dev
-I am currently a simple developer with his own organization, named OPFTS (which stands for "Only Privacy Focused Tech Stuff").
-I am italian and really like making open source projects and use the Linux. 
-In the past I've used Arch, Debian and Solus Linux. Now, I use Red Hat Enterprise Linux 10.1 and dualbooting Linux From Scratch 13.
-I am currently creating multiple OSes. stay tuned
+# 👨‍💻 Litaliano00-dev
 
-Please, if you care about a small developer like me, you can always donate with XMR to this address! :)
+Welcome to my GitHub profile! I'm a passionate open-source developer focused on privacy and secure technologies.
+
+## 🎯 About Me
+
+- **Organization**: [OPFTS](https://github.com/opfts) - *Only Privacy Focused Tech Stuff*
+- **Interests**: Open-source development, Linux systems, and privacy-focused technologies
+- **Current Focus**: Creating multiple operating systems
+
+## 🐧 Linux Experience
+
+I'm an enthusiastic Linux user with experience across multiple distributions:
+
+- **Previously used**: Arch Linux, Debian, Solus Linux
+- **Currently using**: 
+  - Red Hat Enterprise Linux 10.1
+  - Linux From Scratch 13 (dual-boot)
+
+## 🚀 Current Projects
+
+I'm actively developing multiple operating systems. Stay tuned for updates!
+
+## 💰 Support My Work
+
+If you appreciate my contributions to open-source, consider supporting me with a Monero (XMR) donation:
+
+```
 42qu3rLKyUMdcmDCHfss5rCDGKYrSjEcDPX1seuH83mR1EpPcMTv8STFHfJZj649EEgazwaY57Vy3StQPnGss8ok9ctBXek
+```
+
+---
+
+*Feel free to explore my repositories and reach out if you'd like to collaborate!*
