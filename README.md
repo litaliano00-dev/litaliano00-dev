@@ -1,4 +1,4 @@
-# 👨‍💻 Litaliano00-dev
+# 👨‍💻 Adriano Vero
 
 Welcome! I'm a dedicated open-source developer passionate about privacy-focused technologies and Linux systems engineering.
 
@@ -14,7 +14,7 @@ My Linux expertise spans multiple distributions:
 - **Previously explored**: Arch Linux, Debian, Solus Linux
 - **Currently using**: 
   - Red Hat Enterprise Linux 10.1
-  - Linux From Scratch 13 (dual-boot setup)
+  - Fedora Linux 45
 
 Each distribution taught me something valuable about system design, package management, and the incredible flexibility of Linux.
 
@@ -26,7 +26,7 @@ Each distribution taught me something valuable about system design, package mana
 
 I actively contribute to the Linux kernel, helping improve the foundation that powers billions of devices worldwide. You can view my kernel contributions and discussions here:
 
-📎 **[My Linux Kernel Contributions](https://lore.kernel.org/all/?q=litaliano00.contact%40gmail.com)**
+📎 **[My Linux Kernel Contributions](https://lore.kernel.org/all/?q=Adriano+Vero)
 
 Contributing to the kernel is about more than just code — it's about collaboration, peer review, and advancing technology for everyone.
 
