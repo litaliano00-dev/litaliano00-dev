@@ -4,7 +4,7 @@ Welcome! I'm a dedicated open-source developer passionate about privacy-focused 
 
 ## 🎯 About Me
 
-I lead **[OPFTS](https://github.com/opfts)** — *Only Privacy Focused Tech Stuff* — an organization dedicated to creating privacy-respecting software and infrastructure.
+I lead **[VTRUS](https://github.com/VeroTRUS)** — *Vero Technical & Universal Security* — an organization dedicated to creating privacy-respecting software and infrastructure.
 
 I'm **Italian**, deeply passionate about open-source development, and a Linux enthusiast. I believe in building secure, transparent solutions that respect user privacy and freedom.
 
